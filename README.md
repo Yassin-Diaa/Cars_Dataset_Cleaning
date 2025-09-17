@@ -9,18 +9,15 @@ The raw dataset contained:
 - Mixed text and numbers in numeric columns
 - Poor text format
 - Missing values  
-- Duplicate rows  
-
-The final cleaned dataset:
- [cars_dataset_cleaned.csv](./Data/cars_dataset_cleaned.csv)
----
-## Technologies used
+- Duplicate rows
+- 
+### Technologies used
 - Python
 - pandas
 - numpy
 - re (regex)
 
-
+### The final cleaned dataset: [cars_dataset_cleaned.csv](./Data/cars_dataset_cleaned.csv)
 ---
 
 ##  Data Cleaning Steps
