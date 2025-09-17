@@ -134,7 +134,7 @@ df.drop_duplicates(inplace = True)
 ```python
 df.to_csv("../Data/cars_dataset_cleaned.csv", index = False)  
 ```
-- check out the Python cleaning script here: [data_cleaning.py](./Scripts/data.cleaning.py)
+- check out the Python cleaning script here: [data_cleaning.py](./Scripts/data_cleaning.py)
 ---
 
 ## What I learned
